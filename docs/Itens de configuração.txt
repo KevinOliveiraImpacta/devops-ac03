@@ -1,0 +1,9 @@
+Itens de configuração
+
+escopo
+codigo fonte
+modelos - diagramas
+documento de requisitos
+planilha de testes
+testes automatizados
+scripts
